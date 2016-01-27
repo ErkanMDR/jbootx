@@ -2,6 +2,10 @@
 	-fx-body-color : #F5F5F5;
 	-fx-outer-border : #cecece;
 }
+.free {
+	-fx-min-height: 0;
+	-fx-max-height: 46;
+}
 .button,.menu-button,.toggle-button,.split-menu-button {
 	-fx-font-size: 14;
 	-fx-background-radius: 4;
