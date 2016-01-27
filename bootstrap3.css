@@ -680,7 +680,7 @@ VBox > .split-menu-button.last > .arrow-button {
 	/*-fx-background-insets: 5, 1, 5;*/
 	-fx-background-radius: 3 3 0 0, 2 2 0 0, 1 1 0 0;
 	-fx-border-radius: 3 3 0 0, 2 2 0 0, 1 1 0 0;
-	-fx-padding: 11
+	-fx-padding: 4
 }
 
 .titled-pane > .content {
